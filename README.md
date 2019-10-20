@@ -1,6 +1,6 @@
 # paddylift
 
-A new Flutter project.
+Ride Sharing App.
 
 ## Getting Started
 
