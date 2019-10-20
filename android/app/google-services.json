@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "61750846438",
+    "firebase_url": "https://paddylift-3a1e7.firebaseio.com",
+    "project_id": "paddylift-3a1e7",
+    "storage_bucket": "paddylift-3a1e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61750846438:android:f86c4d3e0d682ca36b2c27",
+        "android_client_info": {
+          "package_name": "com.xcelcior.paddylift"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61750846438-fe55qp0g2htil13rn3j9g325d9stlfui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xcelcior.paddylift",
+            "certificate_hash": "a1e54da4116f9263da88b7e887c9f91cbd21b057"
+          }
+        },
+        {
+          "client_id": "61750846438-sf86b58cu9nfdo60efgafqdutneg3kd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xcelcior.paddylift",
+            "certificate_hash": "a52e43caa985ecbe555c8e879dcc43cee6f49c96"
+          }
+        },
+        {
+          "client_id": "61750846438-40gn8b1qjqb5616lik32hpbq175tpbi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLEnFPYmS2mc5UM6q03auMEd430LTpq8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61750846438-40gn8b1qjqb5616lik32hpbq175tpbi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
